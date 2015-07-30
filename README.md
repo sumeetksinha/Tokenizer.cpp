@@ -1,2 +1,2 @@
 # Tokenizer.cpp
-Tokenizer Class for C++ Programming
+A General Tokenizer Class for C++ Programming
